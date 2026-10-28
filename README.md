@@ -11,3 +11,4 @@ What I did:
 - Tested with Ping 8.8.8.8
 
 Commands used: Ip a, ping -c 3 8.8.8.8
+VirtualBox and Kali.png interface 
